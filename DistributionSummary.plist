@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Connect.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>5</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>82BE48A85A379731BF6326EEC06BB3352D76884E</string>
+				<key>dateExpires</key>
+				<string>7/1/27</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>Z8Z6WRZ77S.Personal.Connect.Offline</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>Z8Z6WRZ77S</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>Connect.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>a45e3a3f-13b4-4543-881a-d35c2fef840c</string>
+				<key>dateExpires</key>
+				<string>7/1/27</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: Personal.Connect.Offline</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>Z8Z6WRZ77S</string>
+				<key>name</key>
+				<string>YI LIN</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
